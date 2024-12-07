@@ -5,7 +5,7 @@ This project is a car simulator designed to demonstrate the implementation of mu
 
 ## Clone the repository:
 ```bash
-git clone https://github.com/atakank1999/CENG334-HW2.git
+git clone https://github.com/atakank1999/CENG334-HW2.git
 cd CENG334-HW2
 ```
 
